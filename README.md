@@ -1,8 +1,3 @@
-Got it 👍 Here’s your **refined and professional version** of the README for your project **LinkedInk-AI**, with the same meaning as before — but rewritten for clarity, modern tone, and flow (ideal for GitHub presentation).
-
----
-
-```markdown
 # 🪶 LinkedInk-AI
 
 An AI-powered LinkedIn Post Generator that learns your unique writing style from previous posts and helps you create fresh, engaging, and authentic LinkedIn content with just one click.
